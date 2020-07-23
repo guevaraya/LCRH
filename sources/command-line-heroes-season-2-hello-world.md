@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: ( guevaraya)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
@@ -8,10 +8,11 @@
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
 Command Line Heroes: Season 2: Hello, World
+代码英雄：第二课：你好，世界
 ======
-**00:07** - _Multiple voices_
+**00:07** - _多个人发声_
 
-Hello world.
+你好，世界。
 
 **00:12** -_Saron Yitbarek_
 
