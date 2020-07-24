@@ -7,28 +7,27 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/hello-world)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 2: Hello, World
-代码英雄：第二课：你好，世界
+代码英雄 第二讲：你好，世界
 ======
 **00:07** - _多个人发声_
 
 你好，世界。
 
-**00:12** -_Saron Yitbarek_
+**00:12** -_沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Hello world. Is it signal, or is it noise? All the work we do as developers, all the countless hours of coding and stressing and testing, it all comes down to that one question: are we getting our signal across?
+你好 世界。这是信号还是噪音？我们日日夜夜无休止编码，压测的工作，最终回到一个问题我们获取到我们的信号了吗？
 
-**00:29** - _Multiple voices_
+**00:29** - _多个人发声_
 
-Hello.
+你好
 
-**00:29** - _Saron Yitbarek_
+**00:29** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Or is our signal lost? Are we just making noise.
+或者我们的信号是不是丢了？我们一直再制造噪音？
 
-**00:40** - _Saron Yitbarek_
+**00:40** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-I'm Saron Yitbarek and this is season two of Command Line Heroes, an original podcast from Red Hat. In today's episode we're found in translation. It's all about programming languages: where they came from, and how we choose which ones to learn. We're doing a deep dive into the ways we talk to our machines. How those languages are evolving. And how we can use them to make our work sing.
+我是沙隆·伊特巴雷克(Saron Yitbarek)，这是代码英雄第二讲，来自红帽原创播客。我们已经在译文中看到今天的节目。都是关于编程语言：他们是怎么来的，如何选择其中一个语言来学习。我们深入研究如何与机器对话。这些语言是如何演化的。以及我们如何用他们使我们的作品优美。
 
 **01:08** - _Siri_
 
