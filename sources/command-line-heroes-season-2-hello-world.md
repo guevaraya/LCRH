@@ -15,7 +15,7 @@
 
 **00:12** -_沙隆·伊特巴雷克(Saron Yitbarek)_
 
-你好 世界。这是信号还是噪音？我们日日夜夜无休止编码，压测的工作，最终回到一个问题我们获取到我们的信号了吗？
+你好 世界。这是信号还是噪音？我们日日夜夜无休止编码和压测的工作，最终回到一个问题我们获取到是信号吗？
 
 **00:29** - _多个人发声_
 
@@ -31,14 +31,15 @@
 
 **01:08** - _萨瑞（Sari）_
 
-黛西，黛西，来告诉我你正确的回答。
+黛西，黛西，来告诉我你的正确回答。
 
 **01:11** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-如果你想我一样是一个开发者，你可能觉得精通多种语言的多语言者压力很大。好一点你知道Java，Python，Go JavaScript，Node，最差也得要熟悉 C++ 吧。可能你为了生计熟悉经典语言 COBOL。你也甚至可能是一个菜鸟，像达尔特（Dart）一样。。。 语言太繁多了。
+如果你像我一样是一个开发者，你可能觉得精通多种语言的多语言者压力很大。好一点你知道Java，Python，Go JavaScript，Node，最差也得要熟悉 C++ 吧。可能你为了生计熟悉经典语言 COBOL。你也甚至可能是一个菜鸟，像达尔特（Dart）一样。。。 语言太繁多了。
 
 **01:36** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
+奇怪的是，我们正在讨论的计算机只讲一种语言：机器语言。所有这些 1 和 0 都是以二进制形式飘过。归根结底，我们学习的每个语言都是殊途同归。不管有多抽象，它都是用来简化我们的工作。
 The weird thing is, the computers that we're talking to really only speak one language: machine language. All those ones and zeroes flying by, all those bits. Every single language we learn is, at the end of the day, just another pathway to the same place. It all gets boiled down, no matter how abstracted we are when we're doing the work.
 
 **02:03** - _沙隆·伊特巴雷克(Saron Yitbarek)_
