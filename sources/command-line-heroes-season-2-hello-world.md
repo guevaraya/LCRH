@@ -43,6 +43,7 @@
 
 **02:03** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
+
 And that's what I want you to keep in mind as our story begins, because we're starting with the moment, the completely brilliant moment, when one woman said: "You know what? I'm a human. I don't talk in bits, I don't think in bits. I want to program using English words."
 
 **02:22** - _沙隆·伊特巴雷克(Saron Yitbarek)_
