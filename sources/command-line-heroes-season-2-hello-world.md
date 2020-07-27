@@ -43,28 +43,28 @@
 
 **02:03** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-
-And that's what I want you to keep in mind as our story begins, because we're starting with the moment, the completely brilliant moment, when one woman said: "You know what? I'm a human. I don't talk in bits, I don't think in bits. I want to program using English words."
+这就是我希望你们在故事开讲之前始终记住，因为从这一刻开始，经典辉煌的这一刻，一个妇女说到：“你知道么？我是人类，我不想用二进制讨论，不想用二进制思考，我就想用英语文字去编程。”
 
 **02:22** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Might seem like a simple concept today, but once upon a time, that idea, the idea you should be able to talk to a computer in your own way was a joke at best, sacrilege at worst.
+在今天可能看来是一个简单易于接受的概念，但曾几何时，使用人类的方式与计算机对话的这个主意说轻点是一个笑话，严重点就是亵渎。
 
 **02:37** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Season Two of Command Line Heroes is all about the nuts and bolts that underpin everything we do. And this episode's hero is a woman whose journey you need to know if you want to fully understand our reality. So, I give you: the first lady of software.
+代码英雄第二讲是关于支撑我们做事情的螺钉螺母。这一讲的的英雄是一个女主人公，如果你想更深一步的理解我们的实际状况，我们需要了解她的经历。因此给你们介绍：软件第一夫人。
 
-**02:58** - _Speaker 5_
+**02:58** - _人物 5_
 
-Ladies and gentlemen, it's with great pleasure that I present Commodore Grace Mary Hopper. Thank you.
+尊敬的先生们和女士们，我非常荣幸的给你们介绍格雷斯·玛丽·哈伯准将，谢谢您。
 
 **03:02** - _格雷斯·哈伯(Grace Hopper)_
 
-So I went to Canada to speak at the University of Guelph, and I had to go through immigration at Toronto Airport. And I handed my passport to the immigration officer and he looked at it and looked at me and said, "What are you?"
+我曾到加拿大的圭尔夫大学演讲，我必须在多伦多的机场办理入境手续。我把护照递给移民官，他打量了护照和我说：“你是做什么的？”
 
 **03:17** - _格雷斯·哈伯(Grace Hopper)_
 
 And I said, "United States Navy."
+然后我说，“美国海军”
 
 **03:20** - _格雷斯·哈伯(Grace Hopper)_
 
