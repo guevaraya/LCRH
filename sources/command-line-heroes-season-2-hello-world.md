@@ -95,23 +95,23 @@ And I said, "United States Navy."
 
 **04:49** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Right away, she saw how crazy limiting it was for humans to be using a language meant for machines. It was like trying to walk down the street by telling every atom in your body what to do. Possible? Sure. Efficient? No.
+现在，她意识到限制人类使用机器语言是多么的疯狂。就像走路的时候去告诉你身体的每个原子该怎么做。这是可能的吗？是，效率呢？不高。
 
 **05:06** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-There had to be a shortcut between a programmer's intentions and a computer's actions. Humans had been mechanizing mathematical thinking ever since the abacus. There had to be a way to do that again with computers.
+这需要在程序员的意图和计算机的动作之间选一个捷径。自从有了算盘，人类一直用机械式的数学思维，他们就按部就班的在计算机上选择这样的路径。
 
 **05:19** - _克莱尔·埃文斯(Claire Evans)_
 
-In the past, mathematicians used to have to do all this arithmetic. All this tedious step-by-step work in order to get to the really interesting solutions. And then computers came along and offered the possibility of doing that arithmetic by machine, therefore freeing the mathematician to think lofty, intellectual, systems-oriented thoughts.
+在过去，数学家常常必须做出所有的数学演算。所有这些枯燥的一步一步的工作都是为了得到一个真实的有趣的答案。然后有了计算机后，它尽可能的承担了这些机器运算，所以解放了数学家去高级的，更智慧的，系统性的操作。
 
 **05:39** - _克莱尔·埃文斯(Claire Evans)_
 
-Except for, that's not really what happened. Ultimately, the computer came along and then the mathematician had to become a programmer. And then they were stuck once again doing all these bit-by-bit tedious rule-oriented, little calculations in order to write the programs.
+实际上，当时没有什么变化。最终，有了计算机，数学家必须变成一个程序员。然后他们为了一点运算而去写代码，受困于所有这些枯燥的面向过程的比特流。
 
 **05:53** - _克莱尔·埃文斯(Claire Evans)_
 
-So, I think, Grace's perspective on it was she wanted to make sure that computers could assist mathematicians to think great thoughts and do great things without bogging them down in the details.
+因此，我认为，格雷斯的预想是她希望计算机能够辅助数学家然后他们可以去更伟大的去思考，没有被枯燥繁琐的事情困扰去做更伟大的事情。
 
 **06:12** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
