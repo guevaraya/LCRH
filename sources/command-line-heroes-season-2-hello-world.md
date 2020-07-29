@@ -68,31 +68,30 @@ And I said, "United States Navy."
 
 **03:20** - _格雷斯·哈伯(Grace Hopper)_
 
-He took a second real hard look at me. And then he said, "You must be the oldest one they've got."
+她再次深深的打量我一下。然后他说:"你一定是海军里最老的。"
 
 **03:28** - _沙隆·伊特巴雷克(Saron Yitbarek)_
-
-That was Rear Admiral Grace Hopper in 1985. She was 79-years old at the time and delivering her famous lecture at M.I.T.. Even then, Grace Hopper was a legend. She was the god mother of independent programming languages. The woman who used compilers so we could use human language instead of mathematical symbols.
+他就是1985年的海军少将格雷斯·哈伯(Grace Hopper)。当时她79岁在麻省理工学院发表了著名的演讲。可以说，她是一个传奇人物。她是机器无关独立编程语言之父，她当年通过编译器用人类语言替代数学符号编程。
 
 **03:51** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-She received the National Medal of Technology, and after she died, the National Medal of Freedom. So: not a slouch. They called her " Amazing Grace."
+她获得了国家技术奖章，她死后，追授国家自由勋章。因此：可不是瞎说，他们称她“令人称奇的格雷斯”。
 
 **04:03** - _克莱尔·埃文斯(Claire Evans)_
 
-If anybody was born to be a computer programmer, it was Grace.
+如果有人生来就是计算机程序员，那它就是格雷斯。
 
 **04:06** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-That's Claire Evans, a tech journalist and the author of a book called Broad Band, about pioneering women in tech. Evans describes that early word of computers, the one Grace Hopper stepped into in the 1940s when she was a young woman in the Navy Reserves and computers were the size of a small room.
+这是克莱尔·埃文斯(Claire Evans)，一个科技记者和《宽带》的作者，而这本书讲述了科技领域的先锋女性。埃文斯描绘了早期的计算机世界，格雷斯·哈伯(Grace Hopper)在1940年作为年轻的女性进入了美军的海军预备役部队，而当时的电脑就是一个小房子。
 
 **04:25** - _克莱尔·埃文斯(Claire Evans)_
 
-All those early programmers, they were like a priesthood. They were people that were specifically good at something that was incredibly tedious, because this is before compilers, before programming languages, when people were really programming at the machine level, bit by bit.
+所有那些早期程序员，他们像个牧师，他们是一群擅长枯燥乏味的做事情，因为那会没有编译器，没有编程语言，人们是确实是一个比特一个比特的机器编程。
 
 **04:42** - _克莱尔·埃文斯(Claire Evans)_
 
-In order to have the constitution to do that kind of thing, you really have to be a specific kind of person, and Grace really was that kind of person.
+为了持续的做好这类事情，你真的必须是一个特别的人，而格雷斯真的就是那种人。
 
 **04:49** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
