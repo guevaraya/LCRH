@@ -115,35 +115,35 @@ And I said, "United States Navy."
 
 **06:12** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Hopper was joining a long line of thinkers. You've got Pascal in the 17th century with the first calculator. You've got Babbage in the 19th century with the analytical engine. There's this big, beautiful line of inventors who want to build things to supercharge the human brain. Things that let us process more data than we could ever manage on our own. That's the lineage Grace Hopper was stepping into when she invented something that everybody thought was impossible.
+哈伯也加入了思想家的行列。我们都知道，帕斯卡（Pascal）在17世纪发明了第一台计算器。巴比奇在19世纪发明了分析引擎。这些伟大的杰作是发明家们想解放人类的大脑而造的。这些发明让我们处理数据的能力空前绝后。这就是格雷斯哈伯在发明了所有人认为不可能的东西后，就理所当然的进入思想家的行列。
 
 **06:42** - _克莱尔·埃文斯(Claire Evans)_
 
-I mean, Grace's idea that people should be able to communicate with their computers using natural language, and that language should be machine independent, therefore interoperable between different computing machines was revolutionary in its time.
+我觉得，哈伯的想法是人们应该用人类语言与计算机沟通，这个语言必须独立于机器，因此在不同计算机之前的交互操作在当时引发了一场变革。
 
 **06:59** - _克莱尔·埃文斯(Claire Evans)_
 
-People that got behind her, this notion that she called, in the early days, "automatic programming," were considered to be like space cadets in the community of programmers and computer people.
+早期她称这个为 “自动化编程”的概念，而支持她的人们被看作是程序员和计算机从业人员的里的太空学员。
 
 **07:12** - _克莱尔·埃文斯(Claire Evans)_
 
-And the people who weren't onboard eventually became known as the Neanderthals, it was this huge rift in the computing community.
+而那些迟迟不上岸的人们被看成了尼安德特人，这在当时是计算机界的一个巨大的分歧。
 
 **07:21** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Hopper did not have an easy time convincing her superiors to cross that rift. But she saw it as her duty to try.
+哈伯很难轻易的说服他的主管去跳过这个分歧。但他的责任就是去尝试。
 
 **07:30** - _格雷斯·哈伯(Grace Hopper)_
 
-There's always a line out here. That line represents what your boss will believe at that moment in time. Now, of course, if you step over it, you don't get the budget. So you have a double responsibility to that line: don't step over it, but also keep on educating your boss so you move the line further out, so next time you can go further into the future.
+当然总有人在后面排队。排队意味着你的老板迟早会相信。现在你跳过它，你就得不到预算。因此你有双重责任走这条路：不要跳过，不断的说服你的老板让你你不断前进和探索，你会进一步拥有未来。
 
 **07:52** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-That future she pushed toward is our present. Pretty much every language that you and I rely on owes a debt to Hopper and her first compiler. So that's space cadets “one”, Neanderthals “zero”.
+她推动的未来就是我们的现在。几乎你和我依赖的每一个种语言都归功于哈伯和她第一个编译器。因此太空学员活了下来，尼安德特人灭亡了。
 
 **08:07** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-The idea that we could code not with numbers, but with human-style language. All of a sudden you're typing "Go to Operation 8," or, "Close file C." It was programming made human.
+写代码不用数字，用人类风格的语言是她的观点。你正在敲下“执行操作 8”，或“关闭 文件 C”的精简操作，这才是符合人类习惯的编程。
 
 **08:21** - _克莱尔·埃文斯(Claire Evans)_
 
