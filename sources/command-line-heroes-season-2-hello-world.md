@@ -9,7 +9,7 @@
 
 代码英雄 第二讲：你好，世界
 ======
-**00:07** - _多个人发声_
+**00:07** - _多人发声_
 
 你好，世界。
 
@@ -17,7 +17,7 @@
 
 你好 世界。这是信号还是噪音？我们日日夜夜无休止编码和压测的工作，最终回到一个问题我们获取到是信号吗？
 
-**00:29** - _多个人发声_
+**00:29** - _多人发声_
 
 你好
 
@@ -53,7 +53,7 @@
 
 代码英雄第二讲是关于支撑我们做事情的螺钉螺母。这一讲的的英雄是一个女主人公，如果你想更深一步的理解我们的实际状况，我们需要了解她的经历。因此给你们介绍：软件第一夫人。
 
-**02:58** - _人物 5_
+**02:58** - _人物5_
 
 尊敬的先生们和女士们，我非常荣幸的给你们介绍格雷斯·玛丽·哈伯准将，谢谢您。
 
@@ -147,39 +147,41 @@ And I said, "United States Navy."
 
 **08:21** - _克莱尔·埃文斯(Claire Evans)_
 
-Grace was uniquely aware of the fact that computing was going to be a world changing thing, but it wasn't going to be a world changing thing if nobody understood how to access it or use it. And she wanted to make sure that it was as open to as many people as possible and as accessible to as many people as possible.
+格雷斯的特别想法是计算机将改变世界，但是没有人知道如何接触到计算机并使用它，那么世界也就不会改变。因此她希望一定要开放才能让尽可能多的人用，要易于交互才能有更多的人接触到。
 
 **08:37** - _克莱尔·埃文斯(Claire Evans)_
 
-And that required a certain level of concession to comprehensibility and readability. So ultimately the desire to create programming languages came from wanting to give more points of entry to the machine and taking it away from this priesthood and opening it up to a greater public and a new generation.
+这就需要编程在可理解行和可读性上做一些妥协。因此最终创造一个编程语言的目标就是给机器提供更多切入点，把它从神坛拿下来，让它开发的面向大众和未来新一代。
 
 **08:59** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-I wanna pause here and just underline something Claire said: programming languages as we know them today come from a desire to open the tech up. To take it away from a priesthood of math PhDs and make development accessible.
+我想在这里打断并强调下克莱尔的说法：现在我们所已知的编程语言都来源于科技开放的先驱。是从数学博士的神探拿下来的，它让编程开发更容易。
 
 **09:14** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
 The spirit of the compiler that does all that work, it's motivated by a sense of empathy and understanding.
+编译器的本质是做所有解释性和理解性目的的工作。
 
 **09:21** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Claire's got a theory about why Hopper was the woman to deliver that change. It has to do with Hopper's work during World War II.
+克莱尔有一个观点关于为什么哈伯是推动变革的唯一妇女。在于在二战期间不得不做哈伯的工作。
 
 **09:29** - _克莱尔·埃文斯(Claire Evans)_
 
-She was doing mine sweeping problems, ballistics problems, oceanography problems. She was applying all of these different, diverse disciplines representing all the violent, chaotic, messy realities of the war and translating them into programs to run on the Mark I computer.
+她的工作是解决扫雷，导弹测试问题和海洋问题。她用所有不同的，交叉的学科模拟战争里的所有的暴力，混乱和现实的灾难，将他们转化成在 Mark I 计算机上运行的程序。
 
 **09:45** - _克莱尔·埃文斯(Claire Evans)_
 
-She knew how to do that translation between languages. And I don't mean computer languages, I mean like human languages. She understood how to listen to somebody who was presenting a complex problem, try to understand where they were coming from, what the constraints and affordances of their discipline was and then translate that into something that the computer could understand.
+她知道如何在语言之间去做翻译转换。我的意思不是说计算机语言，意思是人类语言。她精通如何倾听人类描述复杂问题，并尝试理解问题的背景，其约束信息和所涉及的专业规律，然后将这些转为计算机可以理解的程序。
 
 **10:06** - _克莱尔·埃文斯(Claire Evans)_
 
-In a way she was like the earliest compiler. Like, the embodied human compiler because she understood that you had to meet people on their level.
+从这个角度看她如同早期的编译器。就像一个人类内置的编译器，因为她知道你必须从人类的层次满足人的需求。
 
 **10:17** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
 Compiling as an act of empathy and understanding. I think we can all keep that in mind when we learn new languages, or wonder why something isn't compiling at all. The compiler's job should be to meet your language where it lives.
+编译器就是一个解释和理解的过程。我觉得我们应该在学校新语言或想知道为什么有些事情根本不能编译的时候谨记这个理念。编译器的工作就是满足你生活种使用的语言。
 
 **10:32** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
