@@ -209,8 +209,7 @@ Compiling as an act of empathy and understanding. I think we can all keep that i
 
 **12:03** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Then, a few decades later, we get another crucial ingredient added to the language mix. So picture this: the free software community took off in the 1980s, but when the Unix alternative, GNU, was created, there weren't any free and open compilers to go with it.
-
+接着，大约10年之后，我们又有了另一个重要的思潮在语言界兴起。想象下画面是这样：自由软件社区在1980年出现，但是 Unix 的替代 GNU 被造出来后却没有开放和自由的编译器随之出现。
 
 **12:22** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
