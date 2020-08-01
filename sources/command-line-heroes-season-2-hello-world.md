@@ -185,31 +185,32 @@ Compiling as an act of empathy and understanding. I think we can all keep that i
 
 **10:32** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Grace Hopper knew that once humans could learn to speak programming languages, and once compilers began translating our intentions into machine language, well, it was like opening the floodgates.
+格雷斯·哈伯知道人类一旦可以学着去将编程语言，一旦编译器可以将我们的意图转换为机器语言，就像洪水大门打开一样。
 
 **10:43** - _克莱尔·埃文斯(Claire Evans)_
 
-She knew that computing could never develop as an industry, as a world changing force if it was too siloed and too specific. And people who were its practitioners couldn't communicate with the people whose problems needed to be put on the machine, so to speak.
+她知道如果计算机太孤立和太具体的话，就不会发展为一个产业，成为改变世界的力量。也就是说计算机的从业者不能与在机器上问题要解决的人直接沟通。
 
 **11:00** - _克莱尔·埃文斯(Claire Evans)_
 
-So she was really quite expert at that kind of human translation, which I think, yeah, made her uniquely qualified to be thinking about and creating programming languages.
+因此她真的是一个善于人类语言翻译的专家，我是认为的，是的，这使她有独一无二的机会去思考和创建编程语言。
 
 **11:15** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Hopper's work on English-style data processing language eventually evolved into COBOL, which is sort of perfect, because COBOL is not flashy, it's very down to business, and so was Grace Hopper.
+哈伯的工作是将英文数据的加工语言最终演变为 COBOL 语言，它是接近完美的语言，因为它不浮华，很适合商务用途，格雷斯·哈伯也是这样的人。
 
 **11:28** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-In a way, she gave us a language that sounded a lot like her. Also like Hopper, COBOL's got longevity. It's still around 60 years later.
+从某种角度看，她给了我们一个很像她的语言。像哈伯一样，BOBOL 语言也很长寿。她现在已经60多高寿了。
 
 **11:50** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Okay, so Grace Hopper's compilers were like babelfish, parlaying meaning between programmers and their machines. And they were translating things from higher and higher levels of abstraction.
+格雷斯·哈伯的编译器就像一个巴别鱼，吸收编程人员和机器之前的信号含义。然后他们从最高级的抽象翻译这些事务。
 
 **12:03** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
 Then, a few decades later, we get another crucial ingredient added to the language mix. So picture this: the free software community took off in the 1980s, but when the Unix alternative, GNU, was created, there weren't any free and open compilers to go with it.
+
 
 **12:22** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
