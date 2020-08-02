@@ -244,28 +244,27 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **14:12** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-It standardized things and let everybody compile what anybody else had written. The richness of our languages is thanks to that moment.
-它是使编译标准化从而让所有人可以编译别人写的代码。我们丰富多彩的编程语言多亏了这个事件。
+它是使编译标准化从而让所有人可以编译别人写的代码。我们丰富多彩的编程语言多亏了这。
 
 **14:22** - _卡罗尔·威灵(Carol Willing)_
 
-The fact that the GCC was open sort of moved languages to a different level.
+GCC 开发的这个事实可以说将编程语言推向一个更高的层次。
 
 **14:29** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Carol Willing works at Project Jupiter, and she's the former director of the Python Software Foundation.
+这是 Jupiter 项目成员卡罗尔·威灵，她是 Python 软件基金会的前任主管。
 
 **14:35** - _卡罗尔·威灵(Carol Willing)_
 
-People started realizing that proprietary languages, while they served a purpose at the time, they weren't going to gain the acceptance and adoration of the developer community. Because if I'm a developer, I'm going to want to learn what is most commonly used and as well as what is new and on the forefront.
+人们开始意识到这个一个私有的语言，当他们在特定时间被服务于一个目的，他们将得不到开发者社区的认可和热爱。因为如果你是一个开发者，你希望学习最常用，未来最流行的东西。
 
 **14:59** - _卡罗尔·威灵(Carol Willing)_
 
-I don't necessarily want to develop a skill that will lock me into one technology. I think one of the reasons that Python was so successful is it was open source, it had a very clean syntax.
+我没必要去使用一个把我禁锢在技术的能力。我想 Python 为什么这个成功的一个原因是它的开源，它有非常干净的语言。
 
 **15:11** - _卡罗尔·威灵(Carol Willing)_
 
-What it was doing is it was allowing people in a common way to solve problems quickly, efficiently. And to also allow people to collaborate. And I think those are the signs of good programs and good libraries is: if you can get your work done with a minimum amount of headache and you can share it with others. I think that's golden.
+它的特点就是允许人们用一个常见的方法快速的高效的解决问题。也允许大家合作解决问题。我想这就是好程序和代码库的标志：如果你可以用最小的工作量完成你的工作，你就可以把它分享给被人。这确实很棒的事情。
 
 **15:35** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
