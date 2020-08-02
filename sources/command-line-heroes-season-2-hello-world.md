@@ -180,8 +180,7 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **10:17** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Compiling as an act of empathy and understanding. I think we can all keep that in mind when we learn new languages, or wonder why something isn't compiling at all. The compiler's job should be to meet your language where it lives.
-编译器就是一个解释和理解的过程。我觉得我们应该在学校新语言或想知道为什么有些事情根本不能编译的时候谨记这个理念。编译器的工作就是满足你生活种使用的语言。
+编译器就是一个解释和理解的过程。我觉得我们应该在学习新语言或想知道为什么有一些东西根本不能编译的时候牢记这个理念。编译器的工作就是满足你生活种使用的语言。
 
 **10:32** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
@@ -213,39 +212,40 @@ Compiling as an act of empathy and understanding. I think we can all keep that i
 
 **12:22** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-In order for GNU to give us a real open-source alternative to Unix, in order for programming languages to thrive in the open-source world, the community would need to pull a Grace Hopper — we needed an open-source compiler.
+为了让 GNU 给我们一个彻底的UNIX开源来替代品，为了让编程语言在开源世界蓬勃发展，社区需要找来格蕾丝·哈勃-我们需要一个开源编译器。
 
 **12:38** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Here's Langdon White, a platform architect at Red Hat talking about where things stood.
+这是兰登·维特，红帽的平台架构师，来讲讲他对这个事情的理解。
 
 **12:45** - _兰登·维特(Langdon White)_
 
-In the 80s, you can still go spend ten grand pretty easily on a compiler. The free part was a big deal. I don't have an extra ten grand lying around to go buy myself a compiler. Plus the fact that I'd have to buy myself a compiler for every platform I want to target. So, in those days it was mostly Unix, but all the different flavors.
+在80年代，你可能轻轻松松在编译器上花费一万块钱。免费是最大的问题。我没有多余的钱去给自己买编译器。再一个事实我又必须为所有我想要的目标平台自讨腰包买一个对应的编译器。因此，这些天主要在用Unix，但又是不通的发行版。
 
 **13:06** - _兰登·维特(Langdon White)_
 
-So you wouldn't be able to just buy one, you would also have to buy multiple for different architectures or different vendors.
+因此你做不到只买一个，你需要为不同的架构，不同的供应商购买多个编译器。
 
 **13:14** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Langdon notes that it was more than just costs at stake. In some cases, it was the coding work itself.
+兰登指出这不仅仅是成本问题，在一些情况下，对编码工作带来问题。
 
 **13:21** - _兰登·维特(Langdon White)_
 
-People don't realize that it matters how you structure your code in very specific ways. So doing nested for loops or doing nested while loops or that kind of thing may be okay, depending on the compiler.
+大家都没有意识到用很特定的方法构思你的代码是一个大问题。仅在编译器上执行 for 循环的嵌套，或执行 while 循环的嵌套或者类似的事情都没问题。
 
 **13:38** - _兰登·维特(Langdon White)_
 
-So, you know, if you don't know how it's optimizing your code it's very, very difficult to know how to write your code to get the most optimization.
+因此，大家都了解，如果你不知道编译是如何优化你的代码，那么如何写出最优的代码对你将更难。
 
 **13:49** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Suffice to say, we needed a free option, an accessible option, a trustworthy option. What we needed was the GNU C compiler, the GCC. That was the beast, first released in 1987, that merged Grace Hopper's compiler revolution with the free software movement.
+必须要提的是，我们需要一个可免费的，可获得的，可值得信赖的编译器。就是我们需要的 GNU C 语言编译器，GCC。它是最好的，首版本《野兽》1987年发布，当时格蕾丝·哈勃的编译器革命和自由软件运动结合物。
 
 **14:12** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
 It standardized things and let everybody compile what anybody else had written. The richness of our languages is thanks to that moment.
+它是使编译标准化从而让所有人可以编译别人写的代码。我们丰富多彩的编程语言多亏了这个事件。
 
 **14:22** - _卡罗尔·威灵(Carol Willing)_
 
