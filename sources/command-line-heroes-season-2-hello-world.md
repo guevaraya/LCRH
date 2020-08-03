@@ -373,19 +373,19 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **21:08** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-让我们深入一点。作为一个开发者，我有我自己的个性，是不是我对一部分编程语言有天然的喜欢呢？或者我工作用的编程语言可能会影响我的个性？
+让我们深入一点。作为一个开发者，我有自己的个性，是不是我对一部分编程语言有天然的喜欢呢？或者我工作用的编程语言可能会影响我的个性？
 
 **21:25** - _克雷夫·汤普森(Clive Thompson)_
 
-Well, definitely both. But I do think that there is a really strong resonance that people find when they hit a language that they like. You go to a computer science curriculum and you sort of learn what you have to learn: they're all teaching Java. Sometimes more JavaScript or Python.
+两者肯定有存在。但我确实认为当你遇到你喜欢的编程语言的时候有一种强烈的共鸣感。你上了计算机课程学习了必修语言：他们都教JAVA。有时更多是 JavaScript或Python。
 
 **21:46** - _克雷夫·汤普森(Clive Thompson)_
 
-But the point is, you're forced to learn it, so you learn it. But what do people do when they have the choice? And this is where you really see how the sort of emotional or psychological style of someone gravitates towards a language, because I talked to one guy who tried learning JavaScript a bunch.
+问题是，你被强制需学习，所以你学了它。但当他们有选择余地时他们会怎么样呢？这就是你真正看到在感情上和心理上人们是如何被吸引的地方，因为我与尝试学习一大堆 JavaScript 的人聊过。
 
 **22:03** - _克雷夫·汤普森(Clive Thompson)_
 
-And it was just sort of, it's kind of an ugly language to look at. It's go the curly bracket nightmare going on. And so he tried and failed and tried and failed and tried and failed. And then one day he saw a friend working in Python. And it just looked so clean and beautiful to him. He was kind of a writer, and it's often regarded as a writerly type of a language, because the indentation makes everything easy to read.
+这是个看起来有点丑的语言。它简直是花括号的噩梦。他尝试后再失败，锲而不舍的尝试和失败。直到有一天他看到朋友在用Python。在他看起来这是多么的纯净和美妙的语言。因为他曾经是一个作家，而Python被认为是一个书写型的编程语言，缩进使一切都易于阅读。
 
 **22:28** - _克雷夫·汤普森(Clive Thompson)_
 
