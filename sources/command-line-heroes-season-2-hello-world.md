@@ -268,16 +268,16 @@ GCC 开发的这个事实可以说将编程语言推向一个更高的层次。
 
 **15:35** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Over the years, the GCC evolved to support Java, C++, Ada, Fortran, I could go on.
+这么多年过去了，GCC 逐渐的支持了 Java，C++，Ada 和Fortran语言，我可以说很多很多。
 
 **15:43** - _卡罗尔·威灵(Carol Willing)_
 
-By having a common underlying interface like the GCC, it lets people take languages and then customize them to their particular needs. For example, in the Python world, there's many different libraries and even specifically in the scientific Python world, we've got things like numpy, and scikit-image, scikit-learn.
+GCC 又很多通用的底层接口，大家可以根据自己的特殊需求通过编程语言定制 GCC。例如，在 Python 的世界里，有打量的库，特别是 Python 的科学计算库。我们处理数据可以用 numpy， scikit-image，scikit-learn 等。
 
 **16:08** - _卡罗尔·威灵(Carol Willing)_
 
-And each of those had sort of a more specific task that they are known for. So, we've also seen things like bioinformatics and natural language processing. And so people are able to do many different things working off a common base. But then putting elements into their languages or libraries that allow them to optimize problem solving in their particular industry or area.
-
+那些每个库都是为了做大家熟知的特定领域的工作。因此，从我们看来这些就像对生物信息和自然语言的加工处理。而人们可以在一个通用的基础上做出很多不同的事情。例如把放到它们的编程语言或库里面允许
+大家解决和优化特定领域的问题。
 **16:42** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
 So, this is what happens when compiler technology runs headfirst into the open source movement, right? Over time, the collision creates a big bang of new community-supported languages that anybody can learn and build with.
