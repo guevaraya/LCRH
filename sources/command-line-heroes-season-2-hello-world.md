@@ -301,23 +301,23 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **18:24** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Which is perfect, because we need to know what's going on in our brains when we choose which ones to learn.
+当我们挑选了我们想要学习的编程语言，我们需要知道我们大脑里它是什么样子的，是不是完美的。
 
 **18:31** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Here's me and Clive hashing it all out.
+这是我和格雷夫反复讨论的结果。
 
 **18:35** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-When I was first starting out as a new developer, I just said, "Lemme find the best one, I'm going to get really good at it. And then I'll be done."
+当我作为一个开发新人第一次入手的时候，我就说：“让我选一个最好的，然后等我擅长它后。不就完事了么”
 
 **18:44** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-But it's not quite that simple. Why are there so many programming languages?
+听起来很简单，但为什么有那马多的编程语言呢？
 
 **18:49** - _克雷夫·汤普森(Clive Thompson)_
 
-Each language has sort of a bias of things that it's good at. So, typically, the reason that someone creates a new language is there's something they want to do that existing languages aren't good for. JavaScript is a good example of that.
+每个语言都有那么点它擅长的特点。因此通常来说，有人创造一个新语言是因为现有的语言满足不了他们想做的事情了。JAVAScript 就是一个典型的例子。
 
 **19:03** - _克雷夫·汤普森(Clive Thompson)_
 
