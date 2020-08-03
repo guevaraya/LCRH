@@ -272,31 +272,32 @@ GCC 开发的这个事实可以说将编程语言推向一个更高的层次。
 
 **15:43** - _卡罗尔·威灵(Carol Willing)_
 
-GCC 又很多通用的底层接口，大家可以根据自己的特殊需求通过编程语言定制 GCC。例如，在 Python 的世界里，有打量的库，特别是 Python 的科学计算库。我们处理数据可以用 numpy， scikit-image，scikit-learn 等。
+GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通过编程语言定制它。例如，在 Python 的世界里，有大量的库，特别是 Python 的科学计算库。如我们处理数据可以用 numpy，scikit-image，scikit-learn 等。
 
 **16:08** - _卡罗尔·威灵(Carol Willing)_
 
 那些每个库都是为了做大家熟知的特定领域的工作。因此，从我们看来这些就像对生物信息和自然语言的加工处理。而人们可以在一个通用的基础上做出很多不同的事情。例如把放到它们的编程语言或库里面允许
 大家解决和优化特定领域的问题。
+
 **16:42** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-So, this is what happens when compiler technology runs headfirst into the open source movement, right? Over time, the collision creates a big bang of new community-supported languages that anybody can learn and build with.
+因此，这就是编译器技术不可阻挡的进入开源运动后的结果，你同意吗？随着时间的推移，这种冲爆炸般的创造了一个新的社区支持语言，大家都可以学习和完善它。
 
 **16:58** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-There are hundreds and hundreds of those languages being used today.
+直到到今天有成千上百的编程语言都在用它。
 
 **17:03** - _卡罗尔·威灵(Carol Willing)_
 
-As open source became more popular and more accepted, what we've seen is a proliferation of languages. There are a number of languages around cell phone technology and mobile. Different languages that help make game development more straightforward. All purpose languages, like Python and Ruby that were sort of foundational for the web development and delivery of web applications and websites.
+随着开源软件越来越流行和被广泛接受，我们看到了大量激增的编程语言。大量的编程语言应用到蜂窝手机和移动便携上。不同的编程语言让游戏开发更加简单快速。所有编程语言的初衷都是用来开发网络功能，交付网络程序和网络站点的的功能，如 Python 和 Ruby。
 
 **17:34** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-The list goes on. And, yeah, that Tower of Babel we're building is just going to get more packed in the future. But look, you can also see it as a cornucopia, a language feast. And we're going to help you sort through that feast — next.
+这个队伍还会继续壮大。是的，我们建造的这个巴别塔在未来会更加拥挤。但是你可以把它当作一个聚宝盆，一个语言的盛宴。下面我们将会帮你们梳理这个盛宴。
 
 **17:55** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Okay, so I know where the language flood came from. But how do we make sense of it all? How do we pick out languages that matter to us? It's a big question, so I brought in some help: _克雷夫·汤普森(Clive Thompson)_'s one of the best writers out there for making sense of the tech world. He's a columnist at Wired, a contributing writer at the New York Times Magazine, and he's working on a book now about the psychology of computer programmers.
+现在我已经知道编程语言的血缘。但是这些对我们有什么具体的意义？我们如何选择对我们有利的语言呢？这是个大问题，因此我们找了一些人帮忙：克雷夫·汤普森(Clive Thompson)科技界最有意义的作家之一。他是《连线》的专栏记者，《纽约时代杂志》的特约撰稿人，他现在正在些一本关于计算机程序员心理的书。
 
 **18:24** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
