@@ -321,59 +321,59 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **19:03** - _克雷夫·汤普森(Clive Thompson)_
 
-Netscape had created a browser back in the mid '90s and all these web masters wanted to do something a little more interactive. They wanted there to be a way to have a bit of scripting inside their website.
+网景公司曾经在90年代中开发了一款浏览器，所有的网站管理员想做一些更交互行的事情。他们希望有一种方法使其在网站上运行一些脚本。
 
 **19:16** - _克雷夫·汤普森(Clive Thompson)_
 
-And so these demands were coming to Netscape. And they were like, "Alright, we need, there's nothing out there that can do this, we need a scripting language that we build inside our browser."
+当前这些需求都需要网景来实现。然后他们会说： “好吧，我们啥都没有也做不到这点，不过只需要一个可以集成到我们的浏览器的脚本语言。”
 
 **19:25** - _克雷夫·汤普森(Clive Thompson)_
 
-And so they hired Brendan Eich, who was considered a senior guy. He was like 32, and everyone else was like 21.
+于是他们雇佣了 布伦丹·艾奇（Brendan Eich），一个被认为很资深的家伙。他当时32岁，其他都21岁。
 
 **19:32** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-That's senior in developer world.
+这些在开发者圈里是资深人士。
 
 **19:35** - _克雷夫·汤普森(Clive Thompson)_
 
-And they gave him ten days to make JavaScript. So he literally just didn't sleep for ten days and he frantically cranked out a scripting language. And it was kind of ungainly and kind of a mess. But it worked. And it allowed people to do very simple things, it had buttons and dialogs and popups and whatnots.
+他们给他10天时间开发JavaScript。因此他几乎10天没有睡觉然后疯狂的捣鼓出一个脚本语言。它看起来有点挫，有点糟。但是可以工作起来。它允许人们做一些简单的事情，它还有按钮，对话框，弹框和其他东东。
 
 **19:54** - _克雷夫·汤普森(Clive Thompson)_
 
-And so that's an example of a language that came, was created to do something that wasn't really possible at that point in time.
+这就是造一个编程语言的例子，开发一个用来做在当时没有办法完成的事情。
 
 **20:01** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-That's fascinating.
+是不是很有意思。
 
 **20:03** - _克雷夫·汤普森(Clive Thompson)_
 
-So that's why so many languages exist, is that people keep on finding a reason to do something that no one else can do.
+这就是为什么存在这么多编程语言，这就是人们不断的寻找一个理由去做别人做不到的事。
 
 **20:11** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-So what is so interesting to me about the relationship between developers and our programming languages is we have such a strong attachment to these tools, why is that?
+这就是为什么我对开发者和编程语言之间的关系很感兴趣，我们对这些工具有深深的依恋。为什么呢？
 
 **20:22** - _克雷夫·汤普森(Clive Thompson)_
 
-There's a couple reasons why. One is that sometimes it's literally just an accident of what was the first language that you learned. And it's kind of like your first love.
+有几个原因。一是有时你学习第一个编程语言就像一场偶遇，有点想你的初恋。
 
 **20:30** - _克雷夫·汤普森(Clive Thompson)_
 
-And I think it's also like different personalities work with different types of languages. Like, you look at Facebook, and it was designed using PHP. And PHP is kind of a hairball of a language. It's very irregular. And it sort of grew in these fits and starts. And that's sort of the way Facebook feels, too.
+我觉得这如何不同性格人对应不同类型的编程语言。例如你看 脸书用 PHP 设计的。PHP 有点像毛球样的语言。它很不规则，它的成长断断续续。脸书也点这种感觉。
 
 **20:49** - _克雷夫·汤普森(Clive Thompson)_
 
-In comparison, the guys at Google decided, "We want a super high performance language, because Google, at Google we're all about things running really fast, and things, sustaining trillions of users at once."
+与此相反，来自谷歌的伙计决定：“我们想要一个超高性能的语言，因为在谷歌我们的东西都高速运行，维护着万亿级的用户吞吐量。”
 
 **21:02** - _克雷夫·汤普森(Clive Thompson)_
 
-And so they decide to make Go, and Go is a really terrific language for that sort of high-performance computing.
+因此他们决定开发一个 Go 语言，Go 非常适合高性能计算的编程语言。
 
 **21:08** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Let's go a little bit deeper. Is it that I, as a developer, with my specific personality, am going to be naturally attracted to certain languages? Or that the language I work in might influence my personality?
+让我们深入一点。作为一个开发者，我有我自己的个性，是不是我对一部分编程语言有天然的喜欢呢？或者我工作用的编程语言可能会影响我的个性？
 
 **21:25** - _克雷夫·汤普森(Clive Thompson)_
 
