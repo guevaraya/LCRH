@@ -389,43 +389,43 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **22:28** - _克雷夫·汤普森(Clive Thompson)_
 
-And it just clicked with him, because there was just something about the way that Python worked and looked, it's beautiful sparseness, that hit him.
+它和他一拍即合，主要在于 Python 的工作方式和外观，漂亮的松散排版打动了他。
 
 **22:39** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-So, talking with Clive I realized there are languages that are thrust upon us. I'm talking about those ancient languages that are just baked into everything we work with — the code Latin.
+和克雷夫交流我意识到有一些编程语言是硬塞给我们的。我之前讲的古老的编程语言都已经融入到我们的工作里的-拉丁语了。
 
 **22:53** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-But there're also languages we choose, the languages that fit our personalities. And if you want to know what's new and shaking things up, you want to ask a developer what they use on the weekend.
+其实我们也有可供选择，并适合我们个性的编程语言。如果你想知道最新的东西有哪些，你去问问开发者周末用什么就知道了。
 
 **23:05** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Here's more of our conversation:
+下面是我们对话的更多内容。
 
 **23:08** - _克雷夫·汤普森(Clive Thompson)_
 
-So when I ask people: "What are you doing in your spare time?" It'll be all this weird stuff. I think it's actually one of the things that sort of, you know, nice and laudatory about developer behavior is that they tend to be very curious people.
+当我问人们：“你闲暇的时候做什么？”肯定是些稀奇古怪的东西。我想实际上其中一个较好的，最值得称颂的开发者的行为就是他们是富有好奇心的人。
 
 **23:22** - _克雷夫·汤普森(Clive Thompson)_
 
-I know people that decided, "I'm going to learn Erlang, just for the hell of it."
+我知道有人会说，“我要学习 Erlang了，就是为了好玩。”
 
 **23:26** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-I'm trying to imagine these projects that people are working on on the weekends. And it's almost like the project is secondary. It's like the learning of the tool, the language, is more important. That's really what they're there for.
+我尝试想象人们在周末开发这些项目。他们就像是次要的事情。感觉好像学习工具，编程语言是重要的事情。这才是他们的目的所在。
 
 **23:41** - _克雷夫·汤普森(Clive Thompson)_
 
-Exactly. This, is sort of why you'll see people just constantly re-iterating over and over again these calendaring and to-do list things because it's a very quick way, just to figure out, yeah, what does this language do and how does it work and it almost doesn't matter what I'm building, so long as I'm building something.
+确切的说，你将看到为什么大家不停的重复迭代这些日历和待办事项，因为这是一个快速的方法，但需要指出的是，编程语言做了什么以及如何工作的都与我们构建的没关系，我只需要尽可能的构建我的东西。
 
 **23:56** - _克雷夫·汤普森(Clive Thompson)_
 
-They want to know what it feels like to think in that language. Is it going to be, is it going to feel easy, and thrilling and fluent in a way that I'm not experiencing with the current languages? Is it going to open up doors to make things easier to do?
+他们想知道用那样的编程语言思考是什么感觉。是不是会感觉很轻松，刺激，游刃有余的感觉？我目前的使用的语言没这个感觉，是不是入门之后一切事情都变得简单了？
 
 **24:13** - _克雷夫·汤普森(Clive Thompson)_
 
-So there's a possibility space that occurs when you encounter a new language that can be really exciting. Imaginatively exciting.
+因此很有可能你遇到一个新语言然后会非常兴奋。想起来都很兴奋。
 
 **24:20** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
