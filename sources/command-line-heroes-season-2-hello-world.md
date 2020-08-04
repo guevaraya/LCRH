@@ -429,11 +429,11 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **24:20** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-So I'm a Ruby, a very proud Ruby on Rails developer, I think it was about two years ago that another pretty well known Ruby developer, Justin Serrals, did this really great talk advocating for this idea that a language doesn't need to be sexy to be used.
+我是一个 Ruby 从业者，作为 Ruby on Rails 开发者非常自豪，我想两年前另一个非常著名的 Ruby 开发者，贾斯汀·塞拉尔斯做一个非常好的演讲，倡导编程语言从实用角度没有必要那么性感。
 
 **24:41** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-And his thesis, his whole point was that Ruby was really exciting because it was new. And it kind of got to a point about a couple years ago where it just didn't need any more things. It was done. It was a stable language, it was a mature language, and, as a result of it being mature, it's not as exciting for developers. It's not this new toy to play, and so we kind of slowly moved away from it on to the next shiny thing.
+他的观点，他整个意思是 Ruby 是一个令人兴奋的编程语言的原因在于它是新的。差不多几年前都已经得到印证了它已经不需要更新什么了。它已经是一个稳定，成熟的编程语言了，因为它的成熟，对开发者来说也就不那么兴奋了，因此我们将逐步的把目光转移到新的花样来了。
 
 **25:05** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
