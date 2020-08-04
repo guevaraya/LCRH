@@ -437,31 +437,31 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **25:05** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-So, in a sense, it's almost our own curiosity that might kill a language, or make it a little more stale, independent of whether the language is actually good or bad.
+从某个意义上说，很有可能是我们的好奇心会扼杀了一个编程语言，或者让它变得庸俗，而这与编程语言的好坏没有关系。
 
 **25:18** - _克雷夫·汤普森(Clive Thompson)_
 
-I think that's absolutely true. In fact, the downside of this deep curiosity and desire to self-educate that you see amongst developers is that they're constantly trying to find the new shiny thing. And use that language to replicate things that are already basically done pretty well by other languages.
+我认为这是完全正确的。事实上，你看到的开发者的这个极度好奇心和自学欲望的缺点会不断的寻找新鲜事物。然后用把一个语言已经具备的优秀功能复制到其他语言上。
 
 **25:37** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Right.
+是的
 
 **25:37** - _克雷夫·汤普森(Clive Thompson)_
 
-So that's that. Curiosity is a benefit and a trap.
+就是这样，好奇心有好处也是一个陷阱。
 
 **25:43** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Yeah, beautifully put.
+是的，说的很好。
 
 **25:49** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Sometimes our curiosity may be a trap. But it's also the thing that fuels the evolution of languages. Every new language is created because someone said, "What if?" They come about because that developer wanted to do something different.
+有时我们的好奇心可能是一个陷阱。但是它也是编程语言革命的动力。开发每个新编程语言的时候他们会说，“有没有别的可能？”他们出现的原因在于开发人员想要做不一样的事情。
 
 **26:06** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-They wanted a whole new way of saying it.
+我们想要全新的表达方式。
 
 **26:08** - _格雷斯·哈伯(Grace Hopper)_
 
