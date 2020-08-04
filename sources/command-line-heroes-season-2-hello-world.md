@@ -465,43 +465,44 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **26:08** - _格雷斯·哈伯(Grace Hopper)_
 
-And I'll promise you something.
+我向你们承诺一些事情。
 
 **26:11** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-I think Grace Hopper deserves a last word here.
+我想格雷斯·哈伯想在这儿讲两句。
 
 **26:15** - _格雷斯·哈伯(Grace Hopper)_
 
-Just during the next 12 months, any one of you says that we've always done it that way, I will instantly materialize beside you and I will haunt for 24-hours. And see if I can get you to take another look. We can no longer afford that phrase, it's a dangerous one.
+在未来12个月，任何一个人要是说我们总是用这种方式行事的，我将会迅速出奇的出现在你的旁边然后我会24小时萦绕着你。我倒是要看看我能不能引起你的注意。我们不能再相信那句话，这是很危险的。
 
 **26:34** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-The story of Grace Hopper and the first compiler reminds us that there's always a better way to do something if we can just find the words.
+格雷斯的故事和第一款编译器提醒我们只要能可以找到表达文字，我们总有更好的办法做事情。
 
 **26:43** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-And, no matter how abstract those languages become, whether we're floating high or low over the ones and zeroes of machine language, we need to make sure it's a smart choice. We choose the language, or maybe even build the language that helps our intentions come closer to reality.
+不管编程语言有多抽象，不管我们在机器的1和0上向高位还是低位浮动，我们都需要确保它一个明智选择。我们选择一个语言，是让它帮我们的想法更接近显示。
 
 **27:03** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
 If you want to learn more about languages and compilers, you are not alone. We pulled together some super useful material to help you dive deeper. And it's all waiting for you in our show notes. Check it out at redhat.com/commandlineheroes.
+如果你想更深一步学习编程语言和和编译器，你不会很孤独，我们收集了一些很有用的文档帮你深入学习。就等你在我们节目下面留言了。查看 redhat.com/commandlineheroes
 
 **27:20** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Next episode, we're tracking the complicated path toward making open-source contributions. What are the real life struggles of maintainers? How do we make that very first pull request?
+下一期节目，我们将关注开源贡献者的艰辛之路。那些维护者的真实奋斗生活是什么样的？我们的第一份邀请如何发出呢？
 
 **27:32** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-We're taking you through Contributing 101.
+我们将带你们浅识开源贡献。
 
 **27:39** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-Command Line Heroes is an original podcast from Red Hat. Listen for free on Apple Podcasts, Google Podcasts, or wherever you do your thing.
+代码英雄是红帽的原创播客。在苹果播客，谷歌播客上免费收听，或者其他可能的地方。
 
 **27:48** - _沙隆·伊特巴雷克(Saron Yitbarek)_
 
-I'm Saron Yitbarek, until next time keep on coding.
+我是沙隆·伊特巴雷克，下次我们继续编码。
 
 --------------------------------------------------------------------------------
 
@@ -509,7 +510,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/hello-world
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[译者ID](https://github.com/guevaraya)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
