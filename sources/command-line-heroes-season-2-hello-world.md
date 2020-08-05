@@ -7,7 +7,7 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/hello-world)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-代码英雄 第二讲：你好，世界
+<ruby>代码英雄<rt>Command Line Heroes</rt></ruby> 第二讲：你好，世界
 ======
 **00:07** - _多人发声_
 
@@ -27,15 +27,15 @@
 
 **00:40** - _Saron Yitbarek_
 
-我是沙隆·伊特巴雷克(Saron Yitbarek)，这是代码英雄第二讲，来自红帽原创播客。我们已经在译文中看到今天的节目片段。都是关于编程语言：他们是怎么来的，如何选择其中一个语言来学习。我们深入研究如何与机器对话。这些语言是如何演化的。以及我们如何用他们使我们的作品优美。
+我是<ruby>沙隆·伊特巴雷克<rt>Saron Yitbarek</rt></ruby>，这是<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>第二讲，来自<ruby>红帽<rt>Red  Hat</rt></ruby>原创播客。我们已经在译文中看到今天的节目片段。都是关于编程语言：他们是怎么来的，如何选择其中一个语言来学习。我们深入研究如何与机器对话。这些语言是如何演化的。以及我们如何用他们使我们的作品优美。
 
 **01:08** - _Sari_
 
-黛西，黛西，来告诉我你的正确回答。
+<ruby>黛西<rt>Daisy</rt></ruby>，<ruby>黛西<rt>daisy</rt></ruby>，来告诉我你的正确回答。
 
 **01:11** - _Saron Yitbarek_
 
-如果你像我一样是一个开发者，你可能觉得精通多种语言的人很难。优秀点你可能知道Java，Python，Go JavaScript，Node，最差也得要熟悉 C++ 吧。可能你为了生计熟悉经典语言 COBOL。甚至可能你是一个菜鸟，像达尔特（Dart）一样。。。 编程语言实在是太繁多了。
+如果你像我一样是一个开发者，你可能觉得精通多种语言的人很难。优秀点你可能知道Java，Python，Go JavaScript，Node，最差也得要熟悉 C++ 吧。可能你为了生计熟悉经典语言 COBOL。甚至可能你是一个菜鸟，像达尔特<ruby>达尔特<rt>Dart</rt></ruby>一样。。。 编程语言实在是太繁多了。
 
 **01:36** - _Saron Yitbarek_
 
@@ -51,31 +51,30 @@
 
 **02:37** - _Saron Yitbarek_
 
-代码英雄第二讲是关于支撑我们做事情的螺钉螺母。这一讲的英雄是一个女主人公，如果你想更深一步的理解我们的实际背景，我们需要了解她的经历。因此给你们介绍：软件第一夫人。
+<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>第二讲是关于支撑我们做事情的螺钉螺母。这一讲的英雄是一个女主人公，如果你想更深一步的理解我们的实际背景，我们需要了解她的经历。因此给你们介绍：软件第一夫人。
 
 **02:58** - _人物5_
 
-尊敬的先生们和女士们，我非常荣幸的给你们介绍格雷斯·玛丽·哈伯准将，谢谢您。
+尊敬的先生们和女士们，我非常荣幸的给你们介绍<ruby>格雷斯·玛丽·哈伯<rt>Grace Mary Hopper</rt></ruby>准将，谢谢您。
 
 **03:02** - _Grace Hopper_
 
-我曾到加拿大的圭尔夫大学演讲，我必须在多伦多的机场办理入境手续。我把护照递给移民官，他打量了护照和我说：“你是做什么的？”
+我曾到加拿大的圭尔夫大学演讲，我必须在多伦多的机场办理入境手续。我把护照递给移民官，他打量了护照和我说：“你是做什么工作的？”
 
 **03:17** - _Grace Hopper_
 
-And I said, "United States Navy."
 然后我说，“美国海军”
 
 **03:20** - _Grace Hopper_
 
-她再次深深的打量我一下。然后他说:"你一定是海军里最老的。"
+她再次深深的打量我一下。然后他说：“你一定是海军里最老的。”
 
 **03:28** - _Saron Yitbarek_
-他就是1985年的海军少将Grace Hopper。当时她79岁在麻省理工学院发表了著名的演讲。可以说，她是一个传奇人物。她是机器无关的，独立编程语言之父，她当年通过编译器用人类语言替代数学符号编程。
+他就是1985年的海军少将<ruby>格雷斯<rt>Grace Hopper</rt><ruby>。当时她79岁在麻省理工学院发表了著名的演讲。可以说，她是一个传奇人物。她是机器无关的，独立编程语言之父，她当年通过编译器用人类语言替代数学符号编程。
 
 **03:51** - _Saron Yitbarek_
 
-她获得了国家技术奖章，她死后，追授国家自由勋章。因此：不是瞎说，他们称她“令人称奇的格雷斯”。
+她获得了国家技术奖章，她死后，追授国家自由勋章。因此：不是瞎说，他们称她“令人称奇的<ruby>格雷斯<rt>Grace Hopper</rt></ruby>”。
 
 **04:03** - _Claire Evans_
 
@@ -83,7 +82,7 @@ And I said, "United States Navy."
 
 **04:06** - _Saron Yitbarek_
 
-这是Claire Evans，一个科技记者和《宽带》的作者，而这本书讲述了科技领域的先锋女性。埃文斯描绘了早期的计算机世界，Grace Hopper在1940年作为年轻的女性进入了美军的海军预备役部队，而当时的电脑就是一个小房子。
+这是 Claire Evans，一个科技记者和《宽带》的作者，而这本书讲述了科技领域的先锋女性。埃文斯描绘了早期的计算机世界，<ruby>格雷斯<rt>Grace Hopper</rt></ruby>在1940年作为年轻的女性进入了美军的海军预备役部队，而当时的电脑就是一个小房子。
 
 **04:25** - _Claire Evans_
 
@@ -115,7 +114,7 @@ And I said, "United States Navy."
 
 **06:12** - _Saron Yitbarek_
 
-哈伯也加入了思想家的行列。我们都知道，帕斯卡（Pascal）在17世纪发明了第一台计算器。巴比奇在19世纪发明了分析引擎。这些伟大的杰作是发明家们想解放人类的大脑而造的。这些发明让我们处理数据的能力空前绝后。这就是格雷斯哈伯在发明了所有人认为不可能的东西后，就理所当然的进入思想家的行列。
+哈伯也加入了思想家的行列。我们都知道，<ruby>帕斯卡<rt>Pascal</rt></ruby>在17世纪发明了第一台计算器。巴比奇在19世纪发明了分析引擎。这些伟大的杰作是发明家们想解放人类的大脑而造的。这些发明让我们处理数据的能力空前绝后。这就是<ruby>格雷斯<rt>Grace Hopper</rt></ruby>在发明了所有人认为不可能的东西后，就理所当然的进入思想家的行列。
 
 **06:42** - _Claire Evans_
 
@@ -127,7 +126,7 @@ And I said, "United States Navy."
 
 **07:12** - _Claire Evans_
 
-而那些迟迟不上岸的人们被看成了尼安德特人，这在当时是计算机界的一个巨大的分歧。
+而那些迟迟不上岸的人们被看成了<ruby>尼安德特<rt>Neanderthal</rt></ruby>人，这在当时是计算机界的一个巨大的分歧。
 
 **07:21** - _Saron Yitbarek_
 
@@ -155,16 +154,15 @@ And I said, "United States Navy."
 
 **08:59** - _Saron Yitbarek_
 
-我想在这里打断并强调下克莱尔的说法：现在我们所已知的编程语言都来源于科技开放的先驱。是从数学博士的神探拿下来的，它让编程开发更容易。
+我想在这里打断并强调下<ruby>克莱尔<rt>Claire</rt></ruby>的说法：现在我们所已知的编程语言都来源于科技开放的先驱。是从数学博士的神探拿下来的，它让编程开发更容易。
 
 **09:14** - _Saron Yitbarek_
 
-The spirit of the compiler that does all that work, it's motivated by a sense of empathy and understanding.
 编译器的本质是做所有解释性和理解性目的的工作。
 
 **09:21** - _Saron Yitbarek_
 
-克莱尔有一个观点关于为什么哈伯是推动变革的唯一妇女。在于哈伯在二战期间不得不做的工作。
+<ruby>克莱尔<rt>Claire</rt></ruby>有一个观点关于为什么哈伯是推动变革的唯一妇女。在于哈伯在二战期间不得不做的工作。
 
 **09:29** - _Claire Evans_
 
@@ -184,7 +182,7 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **10:32** - _Saron Yitbarek_
 
-格雷斯·哈伯知道人类一旦可以学着去将编程语言，一旦编译器可以将我们的意图转换为机器语言，就像洪水大门打开一样。
+<ruby>格雷斯<rt>Grace Hopper</rt></ruby>知道人类一旦可以学着去将编程语言，一旦编译器可以将我们的意图转换为机器语言，就像洪水大门打开一样。
 
 **10:43** - _Claire Evans_
 
@@ -204,7 +202,7 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **11:50** - _Saron Yitbarek_
 
-格雷斯·哈伯的编译器就像一个巴别鱼，吸收编程人员和机器之前的信号含义。然后他们从最高级的抽象翻译这些事务。
+<ruby>格雷斯<rt>Grace Hopper</rt></ruby>的编译器就像一个巴别鱼，吸收编程人员和机器之前的信号含义。然后他们从最高级的抽象翻译这些事务。
 
 **12:03** - _Saron Yitbarek_
 
@@ -212,7 +210,7 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **12:22** - _Saron Yitbarek_
 
-为了让 GNU 给我们一个彻底开源的UNIX替代品，为了让编程语言在开源世界蓬勃发展，社区找来格蕾丝·哈勃-我们需要一个开源编译器。
+为了让 GNU 给我们一个彻底开源的 UNIX 替代品，为了让编程语言在开源世界蓬勃发展，社区找来格蕾丝·哈勃-我们需要一个开源编译器。
 
 **12:38** - _Saron Yitbarek_
 
@@ -228,7 +226,7 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **13:14** - _Saron Yitbarek_
 
-兰登指出这不仅仅是成本问题，在一些情况下，对编码工作带来问题。
+<ruby>兰登<rt>Langdon</rt></ruby>指出这不仅仅是成本问题，在一些情况下，对编码工作带来问题。
 
 **13:21** - _Langdon White_
 
@@ -240,7 +238,7 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **13:49** - _Saron Yitbarek_
 
-必须要提的是，我们需要一个可免费的，可获得的，可值得信赖的编译器。就是我们需要的 GNU C 语言编译器，GCC。它是最好的，首版本《野兽》1987年发布，在当时它是格蕾丝·哈勃的编译器和自由软件运动的结合。
+必须要提的是，我们需要一个可免费的，可获得的、可值得信赖的编译器。就是我们需要的 GNU C 语言编译器，GCC。它是最好的，首版本《野兽》1987年发布，在当时它是格蕾丝·哈勃的编译器和自由软件运动的结合。
 
 **14:12** - _Saron Yitbarek_
 
@@ -252,7 +250,7 @@ The spirit of the compiler that does all that work, it's motivated by a sense of
 
 **14:29** - _Saron Yitbarek_
 
-这是 Jupiter 项目成员卡罗尔·威灵，她是 Python 软件基金会的前任主管。
+这是 Jupiter 项目成员<ruby>卡罗尔·威灵<rt>Carol Willing</rt></ruby>，她是 Python 软件基金会的前任主管。
 
 **14:35** - _Carol Willing_
 
@@ -297,7 +295,7 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **17:55** - _Saron Yitbarek_
 
-现在我已经知道编程语言的血缘。但是这些对我们有什么具体的意义？我们如何选择对我们有利的语言呢？这是个大问题，因此我们找了一些人帮忙：Clive Thompson科技界最有意义的作家之一。他是《连线》的专栏记者，《纽约时代杂志》的特约撰稿人，他现在正在写一本关于计算机程序员心理的书。
+现在我已经知道编程语言的血缘。但是这些对我们有什么具体的意义？我们如何选择对我们有利的语言呢？这是个大问题，因此我们找了一些人帮忙：Clive Thompson 科技界最有意义的作家之一。他是《连线》的专栏记者，《纽约时代杂志》的特约撰稿人，他现在正在写一本关于计算机程序员心理的书。
 
 **18:24** - _Saron Yitbarek_
 
@@ -329,7 +327,7 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **19:25** - _Clive Thompson_
 
-于是他们雇佣了布伦丹·艾奇（Brendan Eich），一个被认为很资深的家伙。他当时32岁，其他都21岁。
+于是他们雇佣了<ruby>布伦丹·艾奇<rt>Brendan Eich</rt></ruby>，一个被认为很资深的家伙。他当时32岁，其他都21岁。
 
 **19:32** - _Saron Yitbarek_
 
@@ -337,7 +335,7 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **19:35** - _Clive Thompson_
 
-他们给他10天时间开发JavaScript。因此他几乎10天没有睡觉然后疯狂的捣鼓出一个脚本语言。它看起来有点挫，有点糟。但是可以运行。它允许人们做一些简单的事情，它还有按钮，对话框，弹框和其他东东。
+他们给他10天时间开发 JavaScript。因此他几乎10天没有睡觉然后疯狂的捣鼓出一个脚本语言。它看起来有点挫，有点糟。但是可以运行。它允许人们做一些简单的事情，它还有按钮，对话框，弹框和其他东东。
 
 **19:54** - _Clive Thompson_
 
@@ -429,7 +427,7 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **24:20** - _Saron Yitbarek_
 
-我是一个 Ruby 从业者，作为 Ruby on Rails 开发者非常自豪，我想两年前另一个非常著名的 Ruby 开发者，贾斯汀·塞拉尔斯做一个非常好的演讲，倡导编程语言从实用角度没有必要那么性感。
+我是一个 Ruby 从业者，作为 Ruby on Rails 开发者非常自豪，我想两年前另一个非常著名的 Ruby 开发者，<ruby>贾斯汀·塞拉尔斯<rt>Justin Serrals</rt></ruby>做一个非常好的演讲，倡导编程语言从实用角度没有必要那么性感。
 
 **24:41** - _Saron Yitbarek_
 
@@ -497,11 +495,11 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **27:39** - _Saron Yitbarek_
 
-代码英雄是红帽的原创播客。在苹果播客，谷歌播客上免费收听，或者其他可能的地方。
+<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>是红帽的原创播客。在苹果播客，谷歌播客上免费收听，或者其他可能的地方。
 
 **27:48** - _Saron Yitbarek_
 
-我是沙隆·伊特巴雷克，下次我们继续编码。
+我是<ruby>沙隆·伊特巴雷克<rt>Saron Yitbarek</rt></ruby>，下次我们继续编码。
 
 --------------------------------------------------------------------------------
 
