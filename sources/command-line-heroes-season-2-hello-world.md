@@ -7,7 +7,7 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/hello-world)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-<ruby>代码英雄<rt>Command Line Heroes</rt></ruby> 第二讲：你好，世界
+代码英雄 第二讲：你好，世界
 ======
 **00:07** - _多人发声_
 
@@ -27,7 +27,7 @@
 
 **00:40** - _Saron Yitbarek_
 
-我是<ruby>沙隆·伊特巴雷克<rt>Saron Yitbarek</rt></ruby>，这是<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>第二讲，来自<ruby>红帽<rt>Red  Hat</rt></ruby>原创播客。我们已经在译文中看到今天的节目片段。都是关于编程语言：他们是怎么来的，如何选择其中一个语言来学习。我们深入研究如何与机器对话。这些语言是如何演化的。以及我们如何用他们使我们的作品优美。
+我是<ruby>沙隆·伊特巴雷克<rt>Saron Yitbarek</rt></ruby>，这是代码英雄第二讲，来自<ruby>红帽<rt>Red  Hat</rt></ruby>原创播客。我们已经在译文中看到今天的节目片段。都是关于编程语言：他们是怎么来的，如何选择其中一个语言来学习。我们深入研究如何与机器对话。这些语言是如何演化的。以及我们如何用他们使我们的作品优美。
 
 **01:08** - _Sari_
 
@@ -35,7 +35,7 @@
 
 **01:11** - _Saron Yitbarek_
 
-如果你像我一样是一个开发者，你可能觉得精通多种语言的人很难。优秀点你可能知道Java，Python，Go JavaScript，Node，最差也得要熟悉 C++ 吧。可能你为了生计熟悉经典语言 COBOL。甚至可能你是一个菜鸟，像达尔特<ruby>达尔特<rt>Dart</rt></ruby>一样。。。 编程语言实在是太繁多了。
+如果你像我一样是一个开发者，你可能觉得精通多种语言的人很难。优秀点你可能知道Java，Python，Go JavaScript，Node，最差也得要熟悉 C++ 吧。可能你为了生计熟悉经典语言 COBOL。甚至可能你是一个菜鸟，像<ruby>达尔特<rt>Dart</rt></ruby>一样。。。 编程语言实在是太繁多了。
 
 **01:36** - _Saron Yitbarek_
 
@@ -51,7 +51,7 @@
 
 **02:37** - _Saron Yitbarek_
 
-<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>第二讲是关于支撑我们做事情的螺钉螺母。这一讲的英雄是一个女主人公，如果你想更深一步的理解我们的实际背景，我们需要了解她的经历。因此给你们介绍：软件第一夫人。
+代码英雄第二讲是关于支撑我们做事情的螺钉螺母。这一讲的英雄是一个女主人公，如果你想更深一步的理解我们的实际背景，我们需要了解她的经历。因此给你们介绍：软件第一夫人。
 
 **02:58** - _人物5_
 
@@ -495,7 +495,7 @@ GCC 有很多通用的底层接口，大家可以根据自己的特殊需求通�
 
 **27:39** - _Saron Yitbarek_
 
-<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>是红帽的原创播客。在苹果播客，谷歌播客上免费收听，或者其他可能的地方。
+代码英雄是红帽的原创播客。在苹果播客，谷歌播客上免费收听，或者其他可能的地方。
 
 **27:48** - _Saron Yitbarek_
 
